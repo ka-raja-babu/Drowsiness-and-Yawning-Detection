@@ -3,3 +3,4 @@ This project aims to detect and predict "Drowsiness" and "Yawning" through image
 
 # Outputs
 ![alt text](https://github.com/ka-raja-babu/Drowsiness-and-Yawning-Detection/blob/main/OUTPUTS/Image%20(1).png?raw=true)
+![alt test](https://github.com/ka-raja-babu/Drowsiness-and-Yawning-Detection/blob/main/OUTPUTS/Image%20(2).png?raw=true)
